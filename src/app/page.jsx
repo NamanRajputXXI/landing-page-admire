@@ -8,6 +8,7 @@ import AirplanePartner from "@/components/AirplanePartner";
 import CustomerSays from "@/components/CustomerSays";
 import Subscribe from "@/components/Subscribe";
 import Footer from "@/components/Footer";
+import Faq from "@/components/faq/Faq";
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
       <WhyUs />
       <AirplanePartner />
       <CustomerSays />
+      <Faq />
       <Subscribe />
       <Footer />
     </div>
