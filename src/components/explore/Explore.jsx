@@ -10,7 +10,7 @@ const Explore = () => {
           </h1>
           <p className="text-gray-500">
             Embark on a journey of unparalleled exploration with Admire Holidays
-            Tour and Travel. Discover the world's most breathtaking
+            Tour and Travel. Discover the world is most breathtaking
             destinations, from pristine beaches to cultural wonders, as we
             curate unforgettable experiences tailored just for you. Our passion
             is crafting seamless, immersive adventures, ensuring every moment is
