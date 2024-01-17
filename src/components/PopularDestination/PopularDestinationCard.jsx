@@ -38,7 +38,7 @@ const PopularDestinationCard = ({
           <h5>{cost}</h5>/night
         </div>
         <button className="bg-[#FD4A4C] px-4 py-2 flex items-center w-44 rounded-lg text-white justify-center">
-          Explore
+          Enquire
         </button>
       </div>
     </div>
