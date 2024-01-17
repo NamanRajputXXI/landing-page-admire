@@ -15,12 +15,12 @@ const Navbar = () => {
 
   return (
     <>
-      <nav className=" absolute max-w-7xl mb-10 top-0 ">
+      <nav className="  max-w-7xl mx-auto   ">
         <div className=" py-4   px-4">
-          <div className="flex items-center max-w-7xl mx-auto w-full text-white justify-between h-16">
+          <div className="flex items-center max-w-7xl mx-auto w-full  justify-between h-16">
             <div className="flex items-center">
               <div className="flex-shrink-0">
-                <a href="/" className="text-white">
+                <a href="/" className="">
                   <Image src={"/logo.jpg"} width={140} height={50} alt="Logo" />
                 </a>
               </div>
@@ -29,19 +29,19 @@ const Navbar = () => {
               <DropDown />
               <Link
                 href="/about"
-                className="font-medium  text-white md:text-lg  rounded-lg p-2"
+                className="font-medium   md:text-lg  rounded-lg p-2"
               >
                 About
               </Link>
               <Link
                 href="/company"
-                className="font-medium text-white  md:text-lg   rounded-lg p-2"
+                className="font-medium   md:text-lg   rounded-lg p-2"
               >
                 Company
               </Link>
               <Link
                 href="/contact"
-                className="font-medium text-white  md:text-lg  rounded-lg p-2"
+                className="font-medium   md:text-lg  rounded-lg p-2"
               >
                 How to Book
               </Link>
@@ -49,7 +49,7 @@ const Navbar = () => {
                 href="/Earth"
                 className="font-medium  md:text-lg  rounded-lg p-2"
               >
-                <ImEarth size={30} color="white" />
+                <ImEarth size={30} color="black" />
               </Link>
               <Button />
             </div>

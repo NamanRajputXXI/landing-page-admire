@@ -37,9 +37,11 @@ const PopularDestinationCard = ({
         <div className="flex font-medium sm:text-base text-sm items-center text-gray-500">
           <h5>{cost}</h5>/night
         </div>
-        <button className="bg-[#FD4A4C] px-4 py-2 flex items-center w-44 rounded-lg text-white justify-center">
-          Enquire
-        </button>
+        <a href="#header">
+          <button className="bg-[#FD4A4C] cursor-pointer px-4 py-2 flex items-center w-44 rounded-lg text-white justify-center">
+            Enquire
+          </button>
+        </a>
       </div>
     </div>
   );

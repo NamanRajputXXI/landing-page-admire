@@ -8,6 +8,7 @@ const HeroSection = () => {
       style={{
         backgroundImage: `url("/hero-section-bg.jpg")`,
       }}
+      id="header"
     >
       <div className="flex flex-col max-w-7xl mx-auto px-4 items-center justify-center gap-5">
         <div className="flex justify-center text-lg lg:text-xl text-white h-fit w-fit items-center py-3 px-4 rounded-xl bg-black bg-opacity-30">

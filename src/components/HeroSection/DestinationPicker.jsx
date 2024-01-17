@@ -43,8 +43,11 @@ const DestinationPicker = () => {
           <p className="text-black">Guests</p>
           <p className="text-gray-400">Add Guest</p>
         </div>
-        <div className="flex flex-row bg-blue-500 rounded-xl text-white w-32 justify-center gap-3 py-2  items-center">
-          <CiSearch color="white" size={30} /> Search
+        <div
+          className="flex flex-row bg-blue-500 rounded-xl text-white w-32 justify-center gap-3 py-2  items-center"
+          id="enquire"
+        >
+          <CiSearch color="white" size={30} /> Enquire
         </div>
       </div>
     </div>
