@@ -3,7 +3,7 @@ import PopularDestinationCard from "./PopularDestinationCard";
 
 const PopularDestination = () => {
   return (
-    <section className="flex flex-col items-center justify-center py-20 gap-20 px-4 max-w-7xl mx-auto">
+    <section className="flex flex-col items-center justify-center sm:py-20 py-10 gap-20 px-4 max-w-7xl mx-auto">
       <div className="w-full flex sm:flex-row gap-5 flex-col justify-between">
         <div className="flex flex-col  gap-2">
           <h1 className="sm:text-5xl text-xl font-bold">Popular Destination</h1>
