@@ -1,9 +1,10 @@
 import HeroSection from "@/components/HeroSection/HeroSection";
 import Navbar from "@/components/Navbar";
 import PopularDestination from "@/components/PopularDestination/PopularDestination";
-import Explore from "@/components/explore/Explore";
-import WhatsComing from "@/components/whatsComing/WhatsComing";
-import WhyUs from "@/components/whyUs/WhyUs";
+import Explore from "@/components/Explore";
+import WhatsComing from "@/components/WhatsComing";
+import WhyUs from "@/components/WhyUs";
+import AirplanePartner from "@/components/AirplanePartner";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <WhatsComing />
       <Explore />
       <WhyUs />
+      <AirplanePartner />
     </div>
   );
 }
