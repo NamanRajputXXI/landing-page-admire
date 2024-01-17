@@ -13,7 +13,7 @@ import Faq from "@/components/faq/Faq";
 export default function Home() {
   return (
     <div className="relative">
-      <Navbar />
+      {/* <Navbar /> */}
       <HeroSection />
       <PopularDestination />
       <WhatsComing />
@@ -23,7 +23,7 @@ export default function Home() {
       <CustomerSays />
       <Faq />
       <Subscribe />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
