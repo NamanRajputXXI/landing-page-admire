@@ -19,9 +19,9 @@ const CustomerSays = () => {
               alt=""
             />
             <p className="sm:text-lg text-sm font-medium">
-              "Just booked the most amazing trip of my life thanks to Admire
+              Just booked the most amazing trip of my life thanks to Admire
               Holidays. I love the convineance and ease of booking. Thanks to
-              Admire Holidays"
+              Admire Holidays
             </p>
             <div className="flex justify-between items-center">
               <div className="flex flex-col gap-3">
@@ -41,9 +41,9 @@ const CustomerSays = () => {
               alt=""
             />
             <p className=" sm:text-lg text-sm font-medium">
-              "The Best travel deals can always on Admire Holidays. I never
+              The Best travel deals can always on Admire Holidays. I never
               thought planning a trip could be so stress free, Recommendation
-              platform"
+              platform
             </p>
             <div className="flex justify-between items-center">
               <div className="flex flex-col gap-3">

@@ -18,29 +18,30 @@ const Faq = () => {
 
   const faqItems = [
     {
-      question: "How many hotels are listed on Admire Holidays",
+      question: "What destinations does Admire Etour cover?",
       answer:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, nemo vel. Ea quis et vero minus quia recusandae deleniti facere, ipsam deserunt dolor culpa a ratione repellendus sit excepturi cum qui laudantium? Laborum, nisi itaque maxime quis voluptas iusto nihil! Eligendi consectetur corrupti laudantium assumenda aliquam architecto obcaecati placeat delectus.",
+        "Admire Etour covers a wide range of destinations, including popular tourist spots and hidden gems across the globe. From vibrant cities to serene beaches, our tours offer diverse experiences for every traveler.",
     },
     {
-      question: "How many hotels are listed on Admire Holidays",
+      question: "Can I customize my holiday package with Admire Holidays?",
       answer:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, nemo vel. Ea quis et vero minus quia recusandae deleniti facere, ipsam deserunt dolor culpa a ratione repellendus sit excepturi cum qui laudantium? Laborum, nisi itaque maxime quis voluptas iusto nihil! Eligendi consectetur corrupti laudantium assumenda aliquam architecto obcaecati placeat delectus.",
+        "Yes, with Admire Holidays, you have the flexibility to customize your holiday package. Choose your preferred hotels, activities, and travel itinerary to tailor your vacation according to your preferences.",
     },
     {
-      question: "How many hotels are listed on Admire Holidays",
+      question: "What types of accommodations does Admire Holidays offer?",
       answer:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, nemo vel. Ea quis et vero minus quia recusandae deleniti facere, ipsam deserunt dolor culpa a ratione repellendus sit excepturi cum qui laudantium? Laborum, nisi itaque maxime quis voluptas iusto nihil! Eligendi consectetur corrupti laudantium assumenda aliquam architecto obcaecati placeat delectus.",
+        "Admire Holidays provides a variety of accommodations to suit different preferences and budgets. You can choose from luxury hotels, cozy bed and breakfasts, and comfortable resorts, ensuring a pleasant stay during your holiday.",
     },
     {
-      question: "How many hotels are listed on Admire Holidays",
+      question:
+        "Are there family-friendly options available with Admire Etour?",
       answer:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, nemo vel. Ea quis et vero minus quia recusandae deleniti facere, ipsam deserunt dolor culpa a ratione repellendus sit excepturi cum qui laudantium? Laborum, nisi itaque maxime quis voluptas iusto nihil! Eligendi consectetur corrupti laudantium assumenda aliquam architecto obcaecati placeat delectus.",
+        "Absolutely! Admire Etour offers family-friendly tour packages with activities suitable for all ages. Whether you're traveling with kids or extended family, our tours are designed to create memorable experiences for everyone.",
     },
     {
-      question: "How many hotels are listed on Admire Holidays",
+      question: "How do I book a tour with Admire Etour and Holidays?",
       answer:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, nemo vel. Ea quis et vero minus quia recusandae deleniti facere, ipsam deserunt dolor culpa a ratione repellendus sit excepturi cum qui laudantium? Laborum, nisi itaque maxime quis voluptas iusto nihil! Eligendi consectetur corrupti laudantium assumenda aliquam architecto obcaecati placeat delectus.",
+        "Booking a tour with Admire Etour and Holidays is easy. Simply visit our website, browse through the available packages, and follow the booking process. If you have specific requirements, our customer service team is ready to assist you.",
     },
   ];
 

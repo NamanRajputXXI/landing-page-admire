@@ -22,8 +22,8 @@ export default function Home() {
       <AirplanePartner />
       <CustomerSays />
       <Faq />
-      <Subscribe />
-      {/* <Footer /> */}
+
+      <Footer />
     </div>
   );
 }
