@@ -6,6 +6,7 @@ import WhatsComing from "@/components/WhatsComing";
 import WhyUs from "@/components/WhyUs";
 import AirplanePartner from "@/components/AirplanePartner";
 import CustomerSays from "@/components/CustomerSays";
+import Subscribe from "@/components/Subscribe";
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
       <WhyUs />
       <AirplanePartner />
       <CustomerSays />
+      <Subscribe />
     </div>
   );
 }
