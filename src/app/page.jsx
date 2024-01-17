@@ -22,7 +22,6 @@ export default function Home() {
       <AirplanePartner />
       <CustomerSays />
       <Faq />
-
       <Footer />
     </div>
   );
